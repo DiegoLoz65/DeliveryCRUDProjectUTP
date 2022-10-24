@@ -19,7 +19,7 @@ To install, follow these steps:
 
 * Clone the project:
 ```
-git clone https://github.com/DiegoLoz65/ClothingStoreProject
+git clone https://github.com/DiegoLoz65/DeliveryCRUDProjectUTP
 ```
 * Find the xampp folder in the install location:
 
