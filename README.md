@@ -19,7 +19,7 @@ To install, follow these steps:
 
 * Clone the project:
 ```
-git clone https://github.com/DiegoLoz65/DeliveryCRUDProjectUTP
+git clone https://github.com/DiegoLoz65/delivery-project-UTP
 ```
 * Find the xampp folder in the install location:
 
@@ -29,10 +29,6 @@ git clone https://github.com/DiegoLoz65/DeliveryCRUDProjectUTP
 
 [![Imagen12.png](https://i.postimg.cc/yd7FgyY2/Imagen12.png)](https://postimg.cc/kVhVL8Sy)
 
-* Clone the project:
-```
-git clone https://github.com/DiegoLoz65/php_crud_mysql
-```
 * Next open XAMPP and press Start on MySQL and Apache, if done correctly the names will be marked in green.
 
 [![Imagen13.png](https://i.postimg.cc/CK7vGBG2/Imagen13.png)](https://postimg.cc/yJJXBNrh)
